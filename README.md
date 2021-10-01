@@ -5,8 +5,10 @@ Kowl UI at `http://localhost:8081`
 ## Kafka APIs
 [Docs](https://kafka.apache.org/documentation/#api)
 To do:
-1. Simple Python producer
-1. Simple Python consumer
+1. ~~Simple Python producer~~
+1. ~~Simple Python consumer~~
+1. Avro serialiser 
+1. Set up schema registry and link to Kowl
 1. Figure out how to use the Connect API to write from stream to Postgres or Redshift 
 1. Figure out how to use Streams API to write from source topic to target topic 
 
