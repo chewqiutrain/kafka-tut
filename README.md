@@ -11,6 +11,9 @@ To do:
 1. Set up schema registry and link to Kowl
 1. Figure out how to use the Connect API to write from stream to Postgres or Redshift 
 1. Figure out how to use Streams API to write from source topic to target topic 
+1. Multiple partitions
+1. Multiple brokers
+1. Multiple Zookeepers
 
 
 ## Install `kcat` 
